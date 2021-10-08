@@ -1,0 +1,943 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",UK: Sky Sports Racing HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46346
+#EXTINF:-1,UK: At The Races
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7778
+#EXTINF:-1,UK: Racing HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7916
+#EXTINF:-1 group-title="SKY SPORTS",UK: SKY SPORTS MAIN EVENT FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17391
+#EXTINF:-1,UK: Sky Sport Main Events HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7958
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17400
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7961
+#EXTINF:-1,UK: Sky Sport PL
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7960
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17398
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/83100
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23696
+#EXTINF:-1,UK: Sky Sport Cricket FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23405
+#EXTINF:-1,UK: SKY SPORTS F1 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17405
+#EXTINF:-1,UK: SKY SPORTS ARENA FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17402
+#EXTINF:-1,UK: Sky Sport Golf FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7955
+#EXTINF:-1 group-title="BT",UK: BT Sport 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7805
+#EXTINF:-1,UK: BT Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7806
+#EXTINF:-1,UK: BT Sport 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7807
+#EXTINF:-1,UK: BT Sport Extra 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7810
+#EXTINF:-1,UK: BT Sport Extra 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7811
+#EXTINF:-1,UK: BT Sport Extra 3
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7812
+#EXTINF:-1,UK: BT Sport Extra 4
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7813
+#EXTINF:-1,UK: BT Sport Extra 5
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23631
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7808
+#EXTINF:-1,UK: Box Nation HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7804
+#EXTINF:-1,UK: MUTV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7901
+#EXTINF:-1 group-title="DAZN",UK: DAZN 1 (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200520
+#EXTINF:-1,UK: DAZN 2 (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200521
+#EXTINF:-1,UK: DAZN 3 (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200522
+#EXTINF:-1,UK: DAZN 4 (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200523
+#EXTINF:-1,UK: DAZN 5 (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200524
+#EXTINF:-1,DE: DAZN 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/22015
+#EXTINF:-1,DE: DAZN 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/22016
+#EXTINF:-1,DE: DAZN Bar 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25123
+#EXTINF:-1,DE: DAZN Bar 2 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25124
+#EXTINF:-1,IT: Dazn Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46964
+#EXTINF:-1,IT: Dazn Sport 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46963
+#EXTINF:-1,IT: DAZN 2 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142267
+#EXTINF:-1,IT: DAZN Bar 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46961
+#EXTINF:-1,IT: DAZN Bar 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46962
+#EXTINF:-1,IT: DAZN SERIE A HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/26264
+#EXTINF:-1,USA: DAZN
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/30331
+#EXTINF:-1 group-title="BEIN SPORT",AR: BEIN SPORTS 11 EN
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170913
+#EXTINF:-1,AR: BEIN SPORTS 12 EN
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170921
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/22882
+#EXTINF:-1,AR: beIN SPORTS 1 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170078
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25494
+#EXTINF:-1,AR: beIN SPORTS 2 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170079
+#EXTINF:-1,AR: beIN SPORTS 3 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170080
+#EXTINF:-1,AR: beIN SPORTS 4 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170081
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170907
+#EXTINF:-1,AR: beIN SPORTS 5 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170082
+#EXTINF:-1,AR: beIN SPORTS 6 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170083
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170909
+#EXTINF:-1,AR: beIN SPORTS 7 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170084
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170911
+#EXTINF:-1,AR: beIN SPORTS XTRA 1 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17756
+#EXTINF:-1 group-title="RUSH",UK: Rush Sport 1 - 3pm (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200537
+#EXTINF:-1,UK: Rush Sport 2 - 3pm (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200538
+#EXTINF:-1,UK: Rush Sport 3 - 3pm (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200539
+#EXTINF:-1 group-title="SUPERSPORT",AF: SuperSport Premier League
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135956
+#EXTINF:-1,AF: SuperSport Football
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135963
+#EXTINF:-1,AF: SuperSport Grandstand
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135961
+#EXTINF:-1,AF: SuperSport Variety 3
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135950
+#EXTINF:-1,AF: SuperSport Play
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/165877
+#EXTINF:-1,AF: SuperSport TENNIS HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/140560
+#EXTINF:-1,AF: SuperSport Action
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135966
+#EXTINF:-1,AF: SuperSport Blitz
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135965
+#EXTINF:-1,AF: SuperSport Cricket
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135964
+#EXTINF:-1,AF: SuperSport LaLiga
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135960
+#EXTINF:-1,AF: SuperSport Motorsport
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135959
+#EXTINF:-1,AF: SuperSport Rugby
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135954
+#EXTINF:-1,AF: SuperSport Golf
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/165884
+#EXTINF:-1,AF: SuperSport Variety 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/135952
+#EXTINF:-1,AF: SuperSport M·Ximo 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/174638
+#EXTINF:-1,AF: SuperSport OTT1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/172624
+#EXTINF:-1,AF: SuperSport OTT
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/172623
+#EXTINF:-1,UK: SuperSport Premier League FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200527
+#EXTINF:-1,UK: SuperSport Football FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200532
+#EXTINF:-1,UK: SuperSport PSL FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200526
+#EXTINF:-1,UK: SuperSport Grandstand FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200528
+#EXTINF:-1,UK: SuperSport Variety 3 FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200534
+#EXTINF:-1,UK: SuperSport Action FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200531
+#EXTINF:-1,UK: SuperSport Cricket FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200536
+#EXTINF:-1,UK: Supersport Golf (match time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/202702
+#EXTINF:-1,UK: SuperSport LaLiga FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200525
+#EXTINF:-1,UK: SuperSport Motorsport FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200529
+#EXTINF:-1,UK: SuperSport Rugby FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200535
+#EXTINF:-1,UK: SuperSport Tennis FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/202700
+#EXTINF:-1,UK: SuperSport Variety 1 FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200533
+#EXTINF:-1,UK: SuperSport Variety 2 FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/200530
+#EXTINF:-1,UK: SuperSport Variety 4 FHD (Match Time)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/202701
+#EXTINF:-1 group-title="NBCSN",USA: NBC Sports Network
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3728
+#EXTINF:-1,USA: SportsNet Ontario (Premier League)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/44023
+#EXTINF:-1,USA: VIP flow NBCSN
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/219469
+#EXTINF:-1,USA: VIP NBC Sports
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/213870
+#EXTINF:-1 group-title="FRANCE",FR: RMC SPORT 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/4455
+#EXTINF:-1,FR: RMC ACCESS SPORT 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25504
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/4456
+#EXTINF:-1,FR: RMC ACCESS SPORT 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25505
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/4457
+#EXTINF:-1,FR: RMC ACCESS SPORT 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25506
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/4458
+#EXTINF:-1,FR: RMC Sport 5 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39886
+#EXTINF:-1,FR: RMC Sport 6 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39887
+#EXTINF:-1,FR: RMC Sport 7 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39888
+#EXTINF:-1,FR: RMC Sport 8 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39889
+#EXTINF:-1,FR: RMC Sport 9 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25490
+#EXTINF:-1,FR: RMC Sport 10 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/175311
+#EXTINF:-1,FR: RMC Sport 11 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39882
+#EXTINF:-1,FR: RMC Sport 12 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39883
+#EXTINF:-1,FR: RMC Sport 13 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39884
+#EXTINF:-1,FR: RMC Sport 14 HD Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/39885
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7031
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7032
+#EXTINF:-1,DE: SKY SPORT 3 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138000
+#EXTINF:-1,DE: SSky Sport 4 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142649
+#EXTINF:-1,DE: Sky Sport 4 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7034
+#EXTINF:-1,DE: Sky Sport 5 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7035
+#EXTINF:-1,DE: Sky Sport 6 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7036
+#EXTINF:-1,DE: Sky Sport 7 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7037
+#EXTINF:-1,DE: Sky Sport 8 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7038
+#EXTINF:-1,DE: Sky Sport 9 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7039
+#EXTINF:-1,DE: Sky Sport 10 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7040
+#EXTINF:-1,DE: Sky Sport 11 HD (During Games only)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7041
+#EXTINF:-1,DE: Sky Bundesliga 1 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7044
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/26035
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7047
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7048
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7049
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7050
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/25121
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7052
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/54629
+#EXTINF:-1 group-title="GREECE",GR: NOVA Sport 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/178302
+#EXTINF:-1,GR: Nova Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/178303
+#EXTINF:-1,GR: NOVA SPORT 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/18572
+#EXTINF:-1,GR: NOVA SPORT 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/18573
+#EXTINF:-1,GR: Cosmote Sport 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/175109
+#EXTINF:-1,GR: Cosmote Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10835
+#EXTINF:-1,GR: Cosmote SPORT 3 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10836
+#EXTINF:-1,GR: Cosmote Sport 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10837
+#EXTINF:-1,GR: Cosmote Sport 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10838
+#EXTINF:-1,GR: Cosmote Sport 6 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10839
+#EXTINF:-1,GR: Cosmote Sport 7
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/175110
+#EXTINF:-1,GR: Cosmote Sport 8 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/10841
+#EXTINF:-1 group-title="ISRAEL",IL: YES Sport 1 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142852
+#EXTINF:-1,IL: YES Sport 2 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142851
+#EXTINF:-1,IL: YES Sport 3 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142850
+#EXTINF:-1,IL: YES Sport 4 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142849
+#EXTINF:-1,IL: YES Sport 5 HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142848
+#EXTINF:-1,IL: YES Sport 5 Plus VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142847
+#EXTINF:-1,IL: YES Sport 5 Live HD VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142846
+#EXTINF:-1,IL: YES Sport 5 Stars VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142845
+#EXTINF:-1,IL: YES Sport 5 Gold VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142844
+#EXTINF:-1,IL: YES Sport 1 Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142809
+#EXTINF:-1,IL: YES Sport 2 Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142808
+#EXTINF:-1,IL: YES Sport 3 Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142807
+#EXTINF:-1,IL: YES Sport 4 Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142806
+#EXTINF:-1,IL: YES Sport 5 Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142805
+#EXTINF:-1,IL: YES Sport 5 Plus Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142804
+#EXTINF:-1,IL: YES Sport 5 Live Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142803
+#EXTINF:-1,IL: YES Sport 5 Stars Hevc VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142802
+#EXTINF:-1,IL: YES One Sport 4K VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142799
+#EXTINF:-1,IL: YES 5 Sport 4K VIP
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142798
+#EXTINF:-1 group-title="NETHERLAND",NL: Ziggo Sport Voetbal FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3923
+#EXTINF:-1,NL: Ziggo Sport Select FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3921
+#EXTINF:-1,NL: Ziggo Sport Extra 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3299
+#EXTINF:-1,NL: Ziggo Sport Extra 2 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3298
+#EXTINF:-1,NL: Ziggo Sport FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3296
+#EXTINF:-1,NL: Fox Sports 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3906
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3916
+#EXTINF:-1,NL: Fox Sports 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3914
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/3349
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170957
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/206
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7688
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/11073
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/11074
+#EXTINF:-1 group-title="ROMANIA",RO: EUROSPORT HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/28988
+#EXTINF:-1,RO: DIGI SPORT 1 HD
+#EXTVLCOPT:program=1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/8863
+#EXTINF:-1,RO: Digi Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/8864
+#EXTINF:-1,RO: Digi Sport 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23583
+#EXTINF:-1,RO: Digi Sport 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/8866
+#EXTINF:-1 group-title="EX-YU",EX-YU: Arena Sport 1 Hr
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36381
+#EXTINF:-1,EX-YU: Arena Sport 1 srb FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36380
+#EXTINF:-1,EX-YU: ARENA SPORT 2 BIH
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36385
+#EXTINF:-1,EX-YU: Arena Sport 2 srb FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36384
+#EXTINF:-1,EX-YU: ARENA SPORT 3 BIH
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36383
+#EXTINF:-1,EX-YU: Arena Sport 3 srb FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36382
+#EXTINF:-1,EX-YU: Arena Sport 4 srb FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36386
+#EXTINF:-1,EX-YU: ARENA SPORT 4 BIH
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36387
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SBR FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170676
+#EXTINF:-1,EX-YU: Arena Sport 5 HR FULL
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36389
+#EXTINF:-1,EX-YU: Arena Sport 5 srb FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36388
+#EXTINF:-1,EX-YU: Arena Sport 5 srb FH
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/144973
+#EXTINF:-1,EX-YU: Sport Klup 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/28465
+#EXTINF:-1,EX-YU: Sport Klup 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/28466
+#EXTINF:-1,EX-YU: Sport Klup 3
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/28467
+#EXTINF:-1,EX-YU: Sport Klub 7
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36508
+#EXTINF:-1,EX-YU: Sport Klub 8
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36509
+#EXTINF:-1,EX-YU: Sport Klub 9
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/36510
+#EXTINF:-1,EX-YU: Sport Klub HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/28464
+#EXTINF:-1 group-title="SCANDINAVIA- SWEDEN",SE: VISASAT SPORT HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142379
+#EXTINF:-1,SE: Dplay Sport 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138292
+#EXTINF:-1,SE: V2 Sport Premium
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/20831
+#EXTINF:-1,SE: C More Sport HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13549
+#EXTINF:-1,SE: SPORT KANALEN HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13535
+#EXTINF:-1,SE: Viasat Sport Premium HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/456
+#EXTINF:-1,SE: TV 3 SPORT
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/382
+#EXTINF:-1 group-title="SCANDINAVIA-DENMARK",DK: Strive Sport 1 FHD [Live During Events Only]
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/294
+#EXTINF:-1,DK: Strive Sport 2 FHD [Live During Events Only]
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/295
+#EXTINF:-1,DK: Strive Sport 3 FHD [Live During Events Only]
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/296
+#EXTINF:-1,DK: VIASAT SPORT
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/454
+#EXTINF:-1,DK: TV3 SPORT 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13625
+#EXTINF:-1,DK: TV3 Sport 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/75494
+#EXTINF:-1,DK: TV2 Sport HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/310
+#EXTINF:-1,DK: TV2 Sport 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/274
+#EXTINF:-1,DK: VIASAT FOTBOLL
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13632
+#EXTINF:-1 group-title="SCANDINAVIA-FINLAND",FI: V Sport Premium
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170640
+#EXTINF:-1,FI: C More Sport 2 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/551
+#EXTINF:-1,FI: C More Sport 1 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/549
+#EXTINF:-1 group-title="SCANDINAVIA-NORWAY",NO: Eurosport Pluss 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13681
+#EXTINF:-1,NO: Eurosport Pluss 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13682
+#EXTINF:-1,NO: Eurosport Pluss 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13683
+#EXTINF:-1,NO: Eurosport Pluss 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13684
+#EXTINF:-1,NO: Eurosport Norge HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/40619
+#EXTINF:-1,NO: Viasat Sport
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/175366
+#EXTINF:-1 group-title="SCANDINAVIA-SWEDEN",SE: Viasat Football FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/453
+#EXTINF:-1,SE: C More Fotboll HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/13544
+#EXTINF:-1,SE: C More Live HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/441
+#EXTINF:-1,SE: C MORE LIVE 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/442
+#EXTINF:-1,SE: C More LIVE 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/443
+#EXTINF:-1,SE: C More Live 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/444
+#EXTINF:-1,SE: C More Live 5 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/445
+#EXTINF:-1 group-title="UK",UK: ELEVEN SPORTS HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/30310
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7855
+#EXTINF:-1,UK: Eir Sport 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7853
+#EXTINF:-1,UK: Cartoonito
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7820
+#EXTINF:-1,UK: Cartoon network
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7819
+#EXTINF:-1,UK: 5 STAR HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7770
+#EXTINF:-1,UK: 5 USA HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7771
+#EXTINF:-1,UK: 4seven
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7769
+#EXTINF:-1,UK: 5Select
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23419
+#EXTINF:-1,UK: 5Spike
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23418
+#EXTINF:-1,UK: Aaj Tak
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7772
+#EXTINF:-1,UK: ABC NEWS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17347
+#EXTINF:-1,UK: ABP News
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7773
+#EXTINF:-1,UK: Al Jazeera HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17350
+#EXTINF:-1,UK: ALIBI HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7774
+#EXTINF:-1,UK: AMC
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7775
+#EXTINF:-1,UK: Animal Planet HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7777
+#EXTINF:-1,UK: ARY Digital
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170819
+#EXTINF:-1,UK: B4U Movies
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7779
+#EXTINF:-1,UK: B4U PLUS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7781
+#EXTINF:-1,UK: baby tv
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7782
+#EXTINF:-1,UK: BBC 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7783
+#EXTINF:-1,UK: BBC 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7784
+#EXTINF:-1,UK: BBC 3
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7785
+#EXTINF:-1,UK: BBC 4
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7786
+#EXTINF:-1,UK: BBC Alba
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7787
+#EXTINF:-1,UK: BBC CBeebies HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7822
+#EXTINF:-1,UK: BBC EARTH HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17370
+#EXTINF:-1,UK: BBC Entertainment
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46190
+#EXTINF:-1,UK: BBC First
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46191
+#EXTINF:-1,UK: BBC News HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7788
+#EXTINF:-1,UK: BBC One
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23407
+#EXTINF:-1,UK: BBC One Northern Ireland
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7789
+#EXTINF:-1,UK: BBC One Scotland
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7790
+#EXTINF:-1,UK: BBC One West
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23630
+#EXTINF:-1,UK: BBC Parliament
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7792
+#EXTINF:-1,UK: BBC Scotland HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7793
+#EXTINF:-1,UK: BBC Three HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23409
+#EXTINF:-1,UK: BBC Two
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23408
+#EXTINF:-1,UK: BBC Two Northern Ireland
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7794
+#EXTINF:-1,UK: BBC Two Scotland
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7795
+#EXTINF:-1,UK: BBC Two Wales
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7796
+#EXTINF:-1,UK: BBC World News
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7797
+#EXTINF:-1,UK: BET
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7798
+#EXTINF:-1,UK: Blaze
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7800
+#EXTINF:-1,UK: Bloomberg
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7801
+#EXTINF:-1,UK: Boomerang
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7802
+#EXTINF:-1,UK: BOX Hits
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7803
+#EXTINF:-1,UK: CBBC HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7821
+#EXTINF:-1,UK: CBeebies
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170389
+#EXTINF:-1,UK: CBS Action
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7823
+#EXTINF:-1,UK: CBS Drama
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17346
+#EXTINF:-1,UK: CBS Justice HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7824
+#EXTINF:-1,UK: CBS Reality
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7825
+#EXTINF:-1,UK: Challenge HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7826
+#EXTINF:-1,UK: Channel 4 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7827
+#EXTINF:-1,UK: Channel 5 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7828
+#EXTINF:-1,UK: Chart Show Hits UK
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7829
+#EXTINF:-1,UK: Chelsea TV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7830
+#EXTINF:-1,UK: CITV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7818
+#EXTINF:-1,UK: Club MTV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7831
+#EXTINF:-1,UK: CNBC News
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7832
+#EXTINF:-1,UK: CNN HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7833
+#EXTINF:-1,UK: Colors
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7834
+#EXTINF:-1,UK: Colors Europe
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7835
+#EXTINF:-1,UK: Comedy Central Extra
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7836
+#EXTINF:-1,UK: Comedy Central HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7837
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7838
+#EXTINF:-1,UK: Crime Scene Investigation HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/142411
+#EXTINF:-1,UK: Dave HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7839
+#EXTINF:-1,UK: DISCOVERY CHANNEL HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7840
+#EXTINF:-1,UK: DISCOVERY HISTORY HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7841
+#EXTINF:-1,UK: Discovery Home & Health
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23451
+#EXTINF:-1,UK: Discovery Science
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7842
+#EXTINF:-1,UK: Discovery Shed
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7843
+#EXTINF:-1,UK: Discovery Turbo
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7844
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7845
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23442
+#EXTINF:-1,UK: Disney XD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7846
+#EXTINF:-1,UK: DMAX HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7847
+#EXTINF:-1,UK: Drama
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7848
+#EXTINF:-1,UK: E! Entertainment
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7849
+#EXTINF:-1,UK: E4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7850
+#EXTINF:-1,UK: Eden FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7852
+#EXTINF:-1,UK: euronews HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17348
+#EXTINF:-1,UK: FIGHT Box HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46247
+#EXTINF:-1,UK: Film 4 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7858
+#EXTINF:-1,UK: Fine Living Network
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7860
+#EXTINF:-1,UK: Five
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7861
+#EXTINF:-1,UK: Food Network
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7862
+#EXTINF:-1,UK: Fox
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7863
+#EXTINF:-1,UK: Fox News HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7864
+#EXTINF:-1,UK: France 24
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7865
+#EXTINF:-1,UK: FRANCE 24 ENGLISH
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23633
+#EXTINF:-1,UK: Geo News
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170820
+#EXTINF:-1,UK: GOLD TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7867
+#EXTINF:-1,UK: Good Food
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7868
+#EXTINF:-1,UK: H&h
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7872
+#EXTINF:-1,UK: H2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7869
+#EXTINF:-1,UK: History HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7871
+#EXTINF:-1,UK: Horror Channel
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7874
+#EXTINF:-1,UK: Horse and Country
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7875
+#EXTINF:-1,UK: Hum News(Pakistan)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/170648
+#EXTINF:-1,UK: iConcerts HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46261
+#EXTINF:-1,UK: Investigation Discovery
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7876
+#EXTINF:-1,UK: ITV 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7877
+#EXTINF:-1,UK: Itv 2
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7878
+#EXTINF:-1,UK: Itv 3
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7879
+#EXTINF:-1,UK: ITV 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7880
+#EXTINF:-1,UK: ITV BE
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7881
+#EXTINF:-1,UK: itv Encore
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46264
+#EXTINF:-1,UK: Kerrang TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7882
+#EXTINF:-1,UK: KISS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17357
+#EXTINF:-1,UK: LFC TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7883
+#EXTINF:-1,UK: Life Time HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7884
+#EXTINF:-1,UK: LIVERPOOL FC HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17406
+#EXTINF:-1,UK: London Live
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7885
+#EXTINF:-1,UK: Love Nature FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46271
+#EXTINF:-1,UK: Magic TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7886
+#EXTINF:-1,UK: More 4 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7888
+#EXTINF:-1,UK: MOTORS TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7889
+#EXTINF:-1,UK: Movies4Men
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7890
+#EXTINF:-1,UK: MSNBC
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17349
+#EXTINF:-1,UK: MTV 90s
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46274
+#EXTINF:-1,UK: MTV Base
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7892
+#EXTINF:-1,UK: MTV Classic
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7893
+#EXTINF:-1,UK: MTV Club
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138041
+#EXTINF:-1,UK: MTV Dance
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7894
+#EXTINF:-1,UK: MTV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7891
+#EXTINF:-1,UK: MTV HITS HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7896
+#EXTINF:-1,UK: MTV LIVE HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17361
+#EXTINF:-1,UK: MTV OMG
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7898
+#EXTINF:-1,UK: MTV Rocks
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7899
+#EXTINF:-1,UK: Nat Geo
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7902
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7903
+#EXTINF:-1,UK: NHK World TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138140
+#EXTINF:-1,UK: Nick Jr Too
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7904
+#EXTINF:-1,UK: Nick Junior
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7905
+#EXTINF:-1,UK: NICKELODEON HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7907
+#EXTINF:-1,UK: NICKTOONS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7906
+#EXTINF:-1,UK: Paramount Network
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23437
+#EXTINF:-1,UK: PBS America
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7911
+#EXTINF:-1,UK: Pick TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7912
+#EXTINF:-1,UK: POP +1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7976
+#EXTINF:-1,UK: POP MAX
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17367
+#EXTINF:-1,UK: POP TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7913
+#EXTINF:-1,UK: Quest
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7914
+#EXTINF:-1,UK: Quest RED HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7915
+#EXTINF:-1,UK: QVC
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46291
+#EXTINF:-1,UK: QVC Beauty
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46292
+#EXTINF:-1,UK: QVC Extra
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46293
+#EXTINF:-1,UK: QVC Style
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46294
+#EXTINF:-1,UK: Rangers FC TV (Live Event}
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138039
+#EXTINF:-1,UK: Real Lives
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7917
+#EXTINF:-1,UK: Really
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7918
+#EXTINF:-1,UK: red bull HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46296
+#EXTINF:-1,UK: Rishtey
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7919
+#EXTINF:-1,UK: ROK TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7920
+#EXTINF:-1,UK: RT Documentary HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7921
+#EXTINF:-1,UK: RT NEWS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17352
+#EXTINF:-1,UK: RTE 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7922
+#EXTINF:-1,UK: RTE 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7923
+#EXTINF:-1,UK: RTE JUNIOR
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17364
+#EXTINF:-1,UK: RTE News Now
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7924
+#EXTINF:-1,UK: Rte One
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7925
+#EXTINF:-1,UK: Rte two
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7926
+#EXTINF:-1,UK: RTEjr
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7927
+#EXTINF:-1,UK: RUSSiA TODAY NEWS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17351
+#EXTINF:-1,UK: S4C
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7928
+#EXTINF:-1,UK: Sab TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7929
+#EXTINF:-1,UK: Sky 1 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/53973
+#EXTINF:-1,UK: SKY 2 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7964
+#EXTINF:-1,UK: Sky Arts FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7932
+#EXTINF:-1,UK: Sky Atlantic FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138031
+#EXTINF:-1,UK: SKY CINEMA ACTION & ADVENTURE HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7935
+#EXTINF:-1,UK: Sky Cinema Action FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/83086
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7936
+#EXTINF:-1,UK: Sky Cinema Crime FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138124
+#EXTINF:-1,UK: Sky Cinema Disney FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17373
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/83085
+#EXTINF:-1,UK: Sky Cinema Drama HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7937
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7938
+#EXTINF:-1,UK: Sky Cinema Great FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17375
+#EXTINF:-1,UK: Sky Cinema Hits FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/138032
+#EXTINF:-1,UK: Sky Cinema MODERN GREATS HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/171036
+#EXTINF:-1,UK: Sky Cinema Modern-Geant HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7939
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7940
+#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17377
+#EXTINF:-1,UK: Sky Cinema Sci-Fi FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7941
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7942
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7943
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7944
+#EXTINF:-1,UK: SKY LIVING HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7934
+#EXTINF:-1,UK: Sky News FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46329
+#EXTINF:-1,UK: Sky One FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7946
+#EXTINF:-1,UK: Sky Witness HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7965
+#EXTINF:-1,UK: Sony Channel
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7966
+#EXTINF:-1,UK: Sony Crime
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23435
+#EXTINF:-1,UK: Sony Entertainment (SET)
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7967
+#EXTINF:-1,UK: Sony Movie Channel
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23434
+#EXTINF:-1,UK: Sony Movies +1 FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/83095
+#EXTINF:-1,UK: Sony Movies Action
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23436
+#EXTINF:-1,UK: SONY MOVIES CHRISTMAS
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23686
+#EXTINF:-1,UK: spike
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7968
+#EXTINF:-1,UK: Star Bharat
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7969
+#EXTINF:-1,UK: Star Jalsha
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7971
+#EXTINF:-1,UK: Star Plus
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7972
+#EXTINF:-1,UK: Starz TV
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7973
+#EXTINF:-1,UK: STV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7974
+#EXTINF:-1,UK: SyFy FHD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7975
+#EXTINF:-1,UK: TCM HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7977
+#EXTINF:-1,UK: TG4
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7978
+#EXTINF:-1,UK: The Box
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/23449
+#EXTINF:-1,UK: Tiny Pop HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7980
+#EXTINF:-1,UK: TLC HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7981
+#EXTINF:-1,UK: Travel Channel
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7983
+#EXTINF:-1,UK: Tru TV HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46360
+#EXTINF:-1,UK: True Entertainment
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7984
+#EXTINF:-1,UK: True Movies 1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7985
+#EXTINF:-1,UK: TV 3 HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7987
+#EXTINF:-1,UK: TV One HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46363
+#EXTINF:-1,UK: TV5
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7988
+#EXTINF:-1,UK: UFC fight night Pass HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7989
+#EXTINF:-1,UK: Universal Channel HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7991
+#EXTINF:-1,UK: UTV Ireland
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7992
+#EXTINF:-1,UK: VH1
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/17359
+#EXTINF:-1,UK: VH1 Classic
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7993
+#EXTINF:-1,UK: Viceland HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7994
+#EXTINF:-1,UK: Virgin Media One
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46366
+#EXTINF:-1,UK: Virgin Media Three
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46367
+#EXTINF:-1,UK: Virgin Media Two
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/46368
+#EXTINF:-1,UK: Watch
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7997
+#EXTINF:-1,UK: Yesterday HD
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7998
+#EXTINF:-1,UK: Zee Cinema
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/7999
+#EXTINF:-1,UK: Zing
+http://frankfurtiptv.com:8080/dennis/JwkN9M464N/83667
